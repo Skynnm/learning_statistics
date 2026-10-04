@@ -12,4 +12,6 @@
 
 检验水准（level of a test）亦称显著性水平（significant level），记为α
 
-样本统计量（sample statistic）；检验统计量（test statistic）
+样本统计量（sample statistic）；检验统计量（test statistic）：【检验统计量是在假定H0成立的条件下，样本统计量经转换后服从特定分布的标准值，不同的检验统计量设计的统计分布不同】
+
+【p值是指在H0成立的条件下，统计量出现目前值及其更极端值的概率】
