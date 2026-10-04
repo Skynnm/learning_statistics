@@ -5,3 +5,9 @@
 （一）建立检验假设，确定检验水准
 （二）计算检验统计量
 （三）确定p值，作出统计推断
+
+原假设（null hypothesis）H0；备择假设（alternative hypothesis）H1
+
+双侧检验（two-sided test）；单侧检验（one-sided test）
+
+检验水准（level of a test）亦称显著性水平（significant level），记为α
